@@ -1,5 +1,5 @@
 # TextAdventure_TheTimeLoop
-This is a simple text adventure :)
+This is a simple text adventure where I experiment with python :)
 
 I did this proyect with the idea of making a bit more complex code than I was used to and to practice my narrative skills.
 
